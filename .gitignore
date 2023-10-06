@@ -9,7 +9,7 @@ __old__/
 *.csv
 
 *.nii.gz
-*.png
+src/*.png
 
 
 # Byte-compiled / optimized / DLL files
