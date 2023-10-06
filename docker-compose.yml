@@ -1,0 +1,21 @@
+version: "3"
+services:
+  editable-medimg:
+    restart: always
+    build:
+      context: .
+      args:
+        - UID=${UID}
+        - GID=${GID}
+    shm_size: 256gb
+    container_name: editable-medimg
+    working_dir: /project/src
+    tty: true
+    volumes:
+      - ./src:/project/src
+      - /tmp/.X11-unix:/tmp/.X11-unix
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - DISPLAY=${DISPLAY}
+      - PYTHONPATH=/project/src
