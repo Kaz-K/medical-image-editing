@@ -4,7 +4,7 @@ This repository contains the official implementation of the paper presented at M
 
 ## Synthetic images - Rectal cancer
 ![rectal_cancer_4](/synthetic_images/rectal_cancer/image4.png)
-> A tumor of approximately 4 cm is observed on the dorsal wall of the rectum, suggesting rectal cancer. However, the deepest part of the wall structure is preserved, and there is no progression into the rectal mesentery.
+> Axial T2-weighted MR image shows a tumor approximately 4 cm in size on the dorsal wall of the rectum. The deepest structure of the rectal wall was intact, indicating no infiltration beyond the muscularis propria.
 
 ![rectal_cancer_6](/synthetic_images/rectal_cancer/image6.png)
 > A semi-circumferential wall thickening is noted mainly on the dorsal wall of the rectum, with a deep depression at the center. Advanced colorectal cancer is suspected. The muscularis propria on the dorsal side has disappeared, reaching the rectal mesentery.
@@ -16,7 +16,7 @@ This repository contains the official implementation of the paper presented at M
 > A tumor of up to 5 cm is mainly seen on the dorsal wall of the rectum, accompanied by a central depression. The muscularis propria on the dorsal side has disappeared and reaches the rectal mesentery.
 
 ![rectal_cancer_11](/synthetic_images/rectal_cancer/image11.png)
-> There is a protruding elevated lesion mainly on the anterior wall of the rectum. The deep muscularis propria has disappeared, and slight extramural invasion is suspected. Advanced colorectal cancer is suspected.
+> A protruding lesion is observed predominantly on the anterior wall of the rectum. The deeper muscularis propria layer has disappeared, suggesting possible extramural invasion. Findings are concerning for advanced colorectal carcinoma.
 
 ![rectal_cancer_12](/synthetic_images/rectal_cancer/image12.png)
 > Wall thickening of approximately 4 cm is predominantly on the right side of the rectum, suggesting rectal cancer. In the deepest part, the muscularis propria has disappeared and reaches the rectal mesentery.
@@ -57,10 +57,10 @@ This repository contains the official implementation of the paper presented at M
 > There is a 1.5 cm ground-glass opacity (GGO) in the left upper lobe of the lung.
 
 ![lung_cancer_19](/synthetic_images/lung_cancer/image19.png)
-> A 1.5 cm nodular lesion is observed in the apical portion of the right lung, accompanied by a pleural indentation.
+> A 1.5cm nodular lesion is identified in the apical segment of the right lung. Associated pleural indentation is noted.
 
 ![lung_cancer_20](/synthetic_images/lung_cancer/image20.png)
-> A nodular lesion with a cavity measuring 2-3 cm in length is present in the dorsal region of the right upper lobe.
+> Axial CT image showing a pulmonary nodule with a length of 2-3 cm and a cavity on the dorsal side of the right upper lobe of the lung.
 
 ![lung_cancer_21](/synthetic_images/lung_cancer/image21.png)
 > A 1.5 cm nodule with a cavity is observed in the right lower lobe, with part of it protruding into the lumen.
